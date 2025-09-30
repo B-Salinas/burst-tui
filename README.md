@@ -5,7 +5,6 @@
 ![Repo Size](https://img.shields.io/github/repo-size/B-Salinas/burst-tui)
 ![Terminal](https://img.shields.io/badge/runs%20in-terminal-black?logo=gnometerminal)
 ![Offline First](https://img.shields.io/badge/offline-first-blueviolet)
-![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
 The ♡ of it: I wanted simple idea capture with reliable datetime tracking.
 
@@ -107,3 +106,15 @@ alias note='python3 ~/scripts/floatnote.py'
 ![Initalize with `note` in your terminal](./images/initialize.png)
 ![Quick, Easy, Simple - Burst](./images/saved_burst.png)
 ![All In One Document (Enjoy my testing process)](./images/capture_doc.png)
+
+<div align=center> <em> happy bursting! ⋆˙⟡ </em> </div>
+
+---
+
+<div align="center">
+    
+![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)  
+© 2025 B Salinas 
+
+</div>
+
