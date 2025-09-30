@@ -1,17 +1,17 @@
-# ✧ burst-tui ✦
+# ⋆˙⟡✧ burst-tui ✦⋆˙⟡
 
-I needed something fast, smooth, and neat to capture lightning in a bottle while working on my computer / when I don't have a pen and paper nearby.
+The ♡ of it: I wanted simple idea capture with reliable datetime tracking.
 
+Why other notetaking apps weren't working:
 * Apple Notes: On the cloud, could have a better interface - 7/10
 * Sublime Notes: Slow load time, could have a better interface - 6/10
 * TextEdit: Interrupts the flow of ideas right away, could ALSO have a better interface - 3/10
 * Texting Myself: On the cloud, duplicate messages, slow load time - 4/10
 
-After getting to the heart of what I wanted: simple capture with reliable datetime stamping, we came up with **burst**!
+I needed something fast, smooth, and neat to capture lightning in a bottle while working on my computer (and when I didn't have a pen and paper nearby) - so we came up with **burst**!
 
-* Burst utilizes my personal datekeeping system, focusing on `YEAR` `SEASON` `WEEK` Capture. I hope you enjoy it as much as I do!
+> *Burst utilizes my personal datetime system, focusing on `YEAR` `SEASON` `WEEK` `DAYDATE` `TIME`. I hope you enjoy it as much as I do!!!*
 
----
 # Installation
 
 1. Create a `scripts` folder in your `$HOME` Directory
@@ -95,7 +95,7 @@ alias note='python3 ~/scripts/floatnote.py'
 
 4. Start using right away with `note`!
 
----
+# Picture Proof
 
 ![Initalize with `note` in your terminal](./images/initialize.png)
 ![Quick, Easy, Simple - Burst](./images/saved_burst.png)
