@@ -1,4 +1,11 @@
 # ⋆˙⟡✧ burst-tui ✦⋆˙⟡
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)
+![Last Commit](https://img.shields.io/github/last-commit/B-Salinas/burst-tui)
+![Repo Size](https://img.shields.io/github/repo-size/B-Salinas/burst-tui)
+![Terminal](https://img.shields.io/badge/runs%20in-terminal-black?logo=gnometerminal)
+![Offline First](https://img.shields.io/badge/offline-first-blueviolet)
+![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
 The ♡ of it: I wanted simple idea capture with reliable datetime tracking.
 
