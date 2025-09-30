@@ -96,6 +96,6 @@ alias note='python3 ~/scripts/floatnote.py'
 
 ---
 
-![]()
-
-![]()
+![Initalize with `note` in your terminal](./images/initialize.png)
+![Quick, Easy, Simple - Burst](./images/saved_burst.png)
+![All In One Document (Enjoy my testing process)](./images/capture_doc.png)
