@@ -1,4 +1,4 @@
-# ✧ burst tui ✦
+# ✧ burst-tui ✦
 
 I needed something fast, smooth, and neat to capture lightning in a bottle while working on my computer / when I don't have a pen and paper nearby.
 
@@ -12,6 +12,7 @@ After getting to the heart of what I wanted: simple capture with reliable dateti
 * Burst utilizes my personal datekeeping system, focusing on `YEAR` `SEASON` `WEEK` Capture. I hope you enjoy it as much as I do!
 
 ---
+# Installation
 
 1. Create a `scripts` folder in your `$HOME` Directory
 
